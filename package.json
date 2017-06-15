@@ -1,0 +1,38 @@
+{
+  "name": "gconf-http",
+  "version": "1.0.0",
+  "description": "Http Module for gconf",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DmitryDodzin/gconf-http.git"
+  },
+  "keywords": [
+    "gconf",
+    "config",
+    "http",
+    "cluster",
+    "persistant"
+  ],
+  "author": "Dmitry Dodzin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DmitryDodzin/gconf-http/issues"
+  },
+  "homepage": "https://github.com/DmitryDodzin/gconf-http#readme",
+  "contributors": [
+    {
+      "name": "Dmitry Dodzin",
+      "email": "d.dodzin@gmail.com"
+    }
+  ],
+   "maintainers": [
+    {
+      "name": "Dmitry Dodzin",
+      "email": "d.dodzin@gmail.com"
+    }
+  ],
+}
